@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'note_linux_env'
-copyright = '2022, 子午'
+project = 'Win开发笔记'
+copyright = '2022, 子午, http://120.48.82.24/'
 author = '子午'
 
 # The full version, including alpha/beta/rc tags

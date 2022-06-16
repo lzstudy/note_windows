@@ -10,5 +10,5 @@ Welcome to note_widonws's documentation!
    :maxdepth: 3
    :titlesonly:
 
-   resource/index
+   resources/index
 
